@@ -33,9 +33,9 @@ I am a computer science engineering student at San Francisco University.
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Pichuelectrico&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Pichuelectrico&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pichuelectrico&theme=city_lights&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pichuelectrico&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pichuelectrico&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--
 **Pichuelectrico/Pichuelectrico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
