@@ -2,7 +2,7 @@
 
 # <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/daftpunktocat-thomas.gif" height=35> About Me:
 
-I am a computer science engineering student at San Francisco University.
+I am a computer science engineering student at San Francisco de Quito University.
 
 ## 🌐 Socials:
 
